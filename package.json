@@ -20,6 +20,6 @@
   "homepage": "https://github.com/HartManx1/20.3webpack#readme",
   "devDependencies": {
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.8"
+    "webpack-cli": "^3.3.12"
   }
 }
